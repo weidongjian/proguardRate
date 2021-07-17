@@ -12,7 +12,7 @@ setup(
     long_description="计算代码混淆率",
     long_description_content_type="text/markdown",
     python_requires='>=3',
-    packages=find_packages(),
+    packages=['proguard_rate'],
     install_requires=[],
     entry_points={
         'console_scripts': [
