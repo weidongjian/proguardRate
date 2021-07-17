@@ -53,8 +53,7 @@ def removeLineBreak(str):
     return str.strip()
 
 
-# Press the green button in the gutter to run the script.
-if __name__ == '__main__':
+def proguard_rate():
     mappingFile = input("请输入mapping文件地址：")
 
     # 方法开始的地方
