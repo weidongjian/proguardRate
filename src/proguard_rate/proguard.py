@@ -55,6 +55,5 @@ def removeLineBreak(str):
 
 def proguard_rate():
     mappingFile = input("请输入mapping文件地址：")
-
     # 方法开始的地方
     calculateProguardRate(mappingFile)
